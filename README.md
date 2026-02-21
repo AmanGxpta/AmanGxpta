@@ -20,6 +20,7 @@
 ## Web3 Projects & Contributions
 - [Winfinity-AVS](https://github.com/AreeGuptaji/winfinity-avs) - Eigen Layer AVS Implementation (EVM Ecosystem)
 - [AetherFlow-PM](https://github.com/AreeGuptaji/AetherFlow-PM) - AI Powered onchain Prediction Market with Chainlink CRE and Gemini
+- [FlowVault](https://www.flowvault.com) - Autonomous Capital Allocation Engine powered by Chainlink CRE
 
 
 ## Achievements & Highlights
