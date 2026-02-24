@@ -26,5 +26,6 @@
 ## Achievements & Highlights
 - Winner at Swift Student Challenge 2024
 - Solo Win at EthGlobal New Delhi 2025
+- Bounty Wins at ETHGlobal India, Bankok and Singapore
 - Accepted into Network School | Jan Cohort
 
