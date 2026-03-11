@@ -13,14 +13,15 @@
 
 
 # Mentionworthy Projects
-- 🤑 **[FlashArb](https://github.com/AreeGuptaji/FlashArb)** - Human Verified MEV Extractor
-- 🧠 **[MindMorph](https://github.com/AreeGuptaji/MindMorph)** - Native iOS playground visually representing changes in neurochemical levels and brain health
-- 💬 **[doremon.chat](https://github.com/AreeGuptaji/doremon.chat)** - A self attempt at building perplexity
+- 🤑 **[FlashArb](https://github.com/AreeGuptaji/FlashArb)** - Human Verified MEV Extractor (🥇Winner at ETHGlobal New Delhi'25)
+- 🧠 **[MindMorph](https://github.com/AreeGuptaji/MindMorph)** - Native iOS playground visually representing changes in neurochemical levels and brain health (🥇Winner at Swift Student Challenge'24)
 
-## Web3 Projects & Contributions
+## Web3 Projects & Learnings
+- [Decentr-Ad](https://ethglobal.com/showcase/decentrad-km702) -  Decentralized on-chain advertising network where publishers and advertisers connect directly.
 - [Winfinity-AVS](https://github.com/AreeGuptaji/winfinity-avs) - Eigen Layer AVS Implementation (EVM Ecosystem)
 - [AetherFlow-PM](https://github.com/AreeGuptaji/AetherFlow-PM) - AI Powered onchain Prediction Market with Chainlink CRE and Gemini
 - [FlowVault](https://www.flowvault.live) - Autonomous Capital Allocation Engine powered by Chainlink CRE
+- [ChainMind](https://github.com/AreeGuptaji/ChainMind) - AI-powered workspace for generating, validating, and simulating Chainlink Runtime Environment (CRE) workflows from natural language.
 
 
 ## Achievements & Highlights
