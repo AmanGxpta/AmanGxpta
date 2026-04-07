@@ -24,6 +24,9 @@
 - [ChainMind](https://github.com/AreeGuptaji/ChainMind) - AI-powered workspace for generating, validating, and simulating Chainlink Runtime Environment (CRE) workflows from natural language.
 
 
+## Agentic Apps
+ [TechCuff](https://techcuff.naviteklabs.com) - Helps engineers turn what they know into how they speak, by practicing real interview answers and seeing exactly where they fall short.
+
 ## Achievements & Highlights
 - Winner at Swift Student Challenge 2024
 - Solo Win at EthGlobal New Delhi 2025
