@@ -27,6 +27,10 @@
 ## Agentic Apps
  - [MockMic](https://mockmic.naviteklabs.com) - Helps engineers turn what they know into how they speak, by practicing real interview answers and seeing exactly where they fall short.
 
+## iOS & macOS Apps
+- [Trace](https://github.com/AreeGuptaji/Trace) - A widget app that lets helps solo engineers manage and be accountable with their progress across multiple projects
+
+
 ## Achievements & Highlights
 - Winner at Swift Student Challenge 2024
 - Solo Win at EthGlobal New Delhi 2025
