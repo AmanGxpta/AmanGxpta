@@ -28,7 +28,7 @@
  - [MockMic](https://mockmic.naviteklabs.com) - Helps engineers turn what they know into how they speak, by practicing real interview answers and seeing exactly where they fall short.
 
 ## iOS & macOS Apps
-- [Trace](https://github.com/AreeGuptaji/Trace) - A widget app that lets helps solo engineers manage and be accountable with their progress across multiple projects
+- [Trace](https://traceapp.naviteklabs.com/) - A menu bar app that lets helps solo engineers manage the context and be accountable with their progress across multiple projects
 
 
 ## Achievements & Highlights
