@@ -32,9 +32,7 @@
 
 
 ## Achievements & Highlights
-- Winner at Swift Student Challenge 2024
+- Grand Prize Winner at Chainlink Convergence 2026
 - Solo Win at EthGlobal New Delhi 2025
 - Bounty Wins at ETHGlobal India, Bankok and Singapore
-- Accepted into Network School | Jan Cohort
-- Grand Prize Winner at Chainlink Convergence 2026
-
+- Winner at Swift Student Challenge 2024
