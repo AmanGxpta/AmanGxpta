@@ -29,7 +29,7 @@
 
 ## iOS & macOS Apps
 - [Trace](https://traceapp.naviteklabs.com/) - A menu bar app that lets helps solo engineers manage the context and be accountable with their progress across multiple projects
-- [BurnRate](https://github.com/AreeGuptaji/BurnRate) - A menu bar app that lets helps solo engineers manage and see their claude membership usage pattern.
+
 
 
 ## Achievements & Highlights
